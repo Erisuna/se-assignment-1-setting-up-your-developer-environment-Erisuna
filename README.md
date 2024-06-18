@@ -103,7 +103,9 @@ This assignment aims to familiarize you with the tools and configurations necess
    ### Installed pip
 
    - Since pip is included with Python installations from Python 3.4 onwards, I checked by typing:
-   ```sh pip 3.4 version
+   ```sh 
+   pip 3.4 version
+   ```
 - Pip was already installed, so no further action was needed.
 
 6. Configure a Database (MySQL):
@@ -144,9 +146,9 @@ This assignment aims to familiarize you with the tools and configurations necess
 
    4. **Verified Docker Installation:**
       - I opened Command Prompt and typed:
-        ```sh
-      docker --version
-     ```
+      ```sh
+      docker 26.1 version
+      ```
  - I confirmed that Docker was correctly installed and the version number was displayed.
 
 8. Explore Extensions and Plugins:
